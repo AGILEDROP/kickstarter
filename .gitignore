@@ -1,0 +1,15 @@
+# OS generated files #
+######################
+Icon
+.DS_Store
+
+# Node.js packages #
+####################
+bower_components
+node_modules
+
+# Sublime Text #
+################
+sftp-settings.json
+*.sublime-project
+*.sublime-workspace

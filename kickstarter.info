@@ -1,0 +1,21 @@
+;----------// Theme information
+
+	name = Kickstarter
+	description = Drupal theme files to quickly kickstart a new theme development.
+	core = 7.x
+	version = 7.x
+
+;----------// Scripts
+
+	scripts[] = scripts/app/app.js
+
+;----------// Styles
+
+	stylesheets[all][] = stylesheets/application.css
+
+;----------// Regions
+
+	regions[header] = Header
+	regions[content] = Content
+	regions[sidebar] = Sidebar
+	regions[footer] = Footer
