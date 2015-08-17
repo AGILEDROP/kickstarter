@@ -79,7 +79,7 @@
 		<div class="inner container clearfix">
 			<div id="logo" class="logo">
 				<a href="<?php print $front_page; ?>" title="<?php print $site_name; ?>" rel="home" id="logo">
-					<?php include(drupal_get_path('theme', 'spiible') . '/images/layout/logo.svg'); ?>
+					<?php include(drupal_get_path('theme', 'kickstarter') . '/images/layout/logo.svg'); ?>
 				</a>
 			</div>
 
@@ -117,7 +117,7 @@
 		<div class="main-content" role="main">
 			<?php print render($page['content']); ?>
 		</div>
-	</section>
+	</main>
 
 	<footer id="footer" class="footer">
 		<div class="inner container">
