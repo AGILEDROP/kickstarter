@@ -7,11 +7,11 @@
 
 ;----------// Scripts
 
-	scripts[] = scripts/app/app.js
+	scripts[] = assets/scripts/application.js
 
 ;----------// Styles
 
-	stylesheets[all][] = stylesheets/application.css
+	stylesheets[all][] = assets/stylesheets/application.css
 
 ;----------// Regions
 
