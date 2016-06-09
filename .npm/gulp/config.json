@@ -10,7 +10,7 @@
     }
   }
   "sass": {
-    "src": "../sass/*.scss",
+    "src": "../sass/**/*.scss",
     "destination": "../assets/stylesheets",
     "sourcemaps": "../stylesheets",
     "config": {

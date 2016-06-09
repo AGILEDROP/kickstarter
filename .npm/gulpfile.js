@@ -38,7 +38,7 @@ var $ = require('gulp-load-plugins')({
 // Messages data for notify to display
 var messages = {
 	error: function(err) {
-		notify.onError({
+		$.notify.onError({
 			title: config.messages.error.title,
 			message: config.messages.error.message,
 		}) (err);
