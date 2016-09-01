@@ -8,7 +8,7 @@
       "title": "Success",
       "message": "Gulp tasks completed successfully!"
     }
-  }
+  },
   "sass": {
     "src": "../sass/**/*.scss",
     "destination": "../assets/stylesheets",
