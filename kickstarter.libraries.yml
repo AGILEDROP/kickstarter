@@ -14,4 +14,7 @@ global-js:
       minified: false
   dependencies:
     - core/jquery
+    - core/drupal.ajax
+    - core/drupal
+    - core/drupalSettings
     - core/jquery.once
